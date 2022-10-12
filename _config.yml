@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "FuKang Wu"
   avatar           : "profile.png"
-  bio              : "Postgraduate of Zhejiang University，expert in blockchain agreements related"
+  bio              : "Master Student @ Zhejiang University"
   location         : "Zhejiang，China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""
-  email            :
+  googlescholar    : 
+  email            : "frankwu0505@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
