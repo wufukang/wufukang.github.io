@@ -7,4 +7,4 @@ tags:
   - paper
 ---
 
-Share some ideas about reading papers, see at [website](https://opaque-biology-682.notion.site/How-to-Read-Papers-Efficiently-bb140adff6804b9185df593dc7f3d428)
+Share some rudimentary ideas about reading papers, see at [website](https://opaque-biology-682.notion.site/How-to-Read-Papers-Efficiently-bb140adff6804b9185df593dc7f3d428)
