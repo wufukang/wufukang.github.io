@@ -7,4 +7,4 @@ tags:
   - paper
 ---
 
-During this period, I read some papers.
+Share some ideas about reading papers
