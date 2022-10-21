@@ -7,4 +7,4 @@ tags:
   - paper
 ---
 
-I want to share some ideas about reading papers, so I write this blog
+I want to share some ideas about reading papers, so I write this blog.
